@@ -10,7 +10,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  static const twentyFiveMinuted = 1500;
+  static const twentyFiveMinuted = 1501;
   bool isRunning = false;
   int totalSecond = twentyFiveMinuted;
   int totalPomodors = 0;
